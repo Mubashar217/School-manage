@@ -36,7 +36,7 @@ const Announcement = () => {
             ))
         )
          : ( 
-            <div>No announcements available dat the moment</div>
+            <div>No announcements availadble dat the moment</div>
             )
          } 
 
