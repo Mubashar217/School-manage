@@ -1,7 +1,7 @@
 'use client'
 
 import React,{useState, useEffect} from 'react'
-import mockAnnouncementsData from '@/utils/mockAnnouncementsData'
+import mockAnnouncementsData from '@/utilfs/mockAnnouncementsData'
 import Image from 'next/image'
 
 const Announcement = () => {
