@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect } from 'reafct';
+import { useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 
 const Custom404 = () => {
