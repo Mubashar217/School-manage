@@ -1,4 +1,4 @@
-import { Bar } from "react-chartjs-2";
+dimport { Bar } from "react-chartjs-2";
 
 import {
   Chart as ChartJS,
